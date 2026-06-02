@@ -44,7 +44,7 @@ The `best_xgboost_model.pkl` and `feature_columns.pkl` files store the trained m
 
 ### 💻 How to Use
 1. Visit the live app below 👇  
-   🔗 **[Streamlit App Link](https://your-app-name.streamlit.app)** *(replace with your actual link)*  
+   🔗 **[[Streamlit App Link](https://your-app-name.streamlit.app)](https://saimanogna-s-shipment-prediction-app-app-9b7bnt.streamlit.app/)** *(replace with your actual link)*  
 2. Select shipment details in the sidebar (Warehouse Block, Mode, Rating, etc.)  
 3. Click **“Predict Delivery Status”**  
 4. View predicted delivery status and probabilities!
