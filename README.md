@@ -51,11 +51,4 @@ The `best_xgboost_model.pkl` and `feature_columns.pkl` files store the trained m
 
 ---
 
-### 🧩 Local Setup (optional)
-To run the app locally:
 
-```bash
-git clone https://github.com/SaiManogna-S/shipment-prediction-app.git
-cd shipment-prediction-app
-pip install -r requirements.txt
-streamlit run app.py
